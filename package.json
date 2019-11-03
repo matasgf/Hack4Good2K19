@@ -1,0 +1,17 @@
+{
+  "name": "hack4good2k19",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "request": "^2.88.0",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Frank Giddens",
+  "license": "ISC"
+}
